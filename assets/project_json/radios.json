@@ -1,0 +1,740 @@
+[
+	{
+			"bool": false,
+			"fav":false,
+			"id": "20",
+			"Name": "الرقية الشرعية",
+			"URL": "http://live.mp3quran.net:9936/;"
+		},
+	{
+			"bool": false,
+			"fav":false,
+			"id": "2",
+			"Name": "تفسير القران الكريم",
+			"URL": "http://live.mp3quran.net:9718/;"
+		},
+	{
+			"bool": false,
+			"fav":false,
+			"id": "3",
+			"Name": "سورة البقرة لعدد من القراء",
+			"URL": "http://live.mp3quran.net:9722/;"
+		},
+	{
+			"bool": false,
+			"fav":false,
+			"id": "4",
+			"Name": "اذاعة متنوعة لمختلف القراء",
+			"URL": "http://live.mp3quran.net:8006/;"
+		},
+	{
+			"bool": false,
+			"fav":false,
+			"id": "5",
+			"Name": "المختصر في تفسير القرآن ",
+			"URL": "http://live.mp3quran.net:9698/;"
+		},
+	{
+		"bool": false,
+			"fav":false,
+		"id": "1",
+		"Name": "تراتيل قصيرة متميزة",
+		"URL": "http://live.mp3quran.net:9702/;"
+	 },
+	{
+		"bool": false,
+        "fav":false,
+		"id": "6",
+		"Name": "تلاوات خاشعة",
+		"URL": "http://live.mp3quran.net:9992/;"
+	  },
+	{
+		"bool": false,
+		"fav":false,
+		"id": "122",
+		"Name": "ياسر الدوسري",
+		"URL": "http://live.mp3quran.net:9984/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "81",
+		"Name": "ماهر المعيقلي",
+		"URL": "http://live.mp3quran.net:8002/;"
+	  }, 
+	{
+		"bool": false,
+         "fav":false,
+		"id": "55",
+		"Name": " عبدالباسط عبدالصمد مجود",
+		"URL": "http://live.mp3quran.net:9974/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "56",
+		"Name": "عبدالرحمن السديس",
+		"URL": "http://live.mp3quran.net:9988/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "99",
+		"Name": "محمود خليل الحصري مجود",
+		"URL": "http://live.mp3quran.net:9804/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "102",
+		"Name": "(مجود)محمود علي البنا",
+		"URL": "http://live.mp3quran.net:9810/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "103",
+		"Name": "محمود علي البنا ترتيل",
+		"URL": "http://live.mp3quran.net:9808/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "104",
+		"Name": "مشاري العفاسي",
+		"URL": "http://live.mp3quran.net:8010/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "105",
+		"Name": "مصطفى إسماعيل",
+		"URL": "http://live.mp3quran.net:9800/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "38",
+		"Name": "سعود الشريم",
+		"URL": "http://live.mp3quran.net:9986/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "31",
+		"Name": "خالد الجليل",
+		"URL": "http://live.mp3quran.net:9708/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "115",
+		"Name": "ناصر القطامي",
+		"URL": "http://live.mp3quran.net:9994/;"
+	  },
+	{
+		"bool": false,
+         "fav":false,
+		"id": "87",
+		"Name": "محمد جبريل",
+		"URL": "http://live.mp3quran.net:9962/;"
+	  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "17",
+	"Name": "إدريس ابكر",
+	"URL": "http://live.mp3quran.net:9968/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "37",
+	"Name": "سعد الغامدي",
+	"URL": "http://live.mp3quran.net:8004/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "41",
+	"Name": " ابو بكر الشاطري",
+	"URL": "http://live.mp3quran.net:9966/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "47",
+	"Name": "صلاح بو خاطر",
+	"URL": "http://live.mp3quran.net:9878/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "73",
+	"Name": "علي الحذيفي ترتيل 1",
+	"URL": "http://live.mp3quran.net:9846/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "85",
+	"Name": "محمد الطبلاوي",
+	"URL": "http://live.mp3quran.net:9834/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "79",
+	"Name": "فارس عباد",
+	"URL": "http://live.mp3quran.net:9972/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "9",
+	"Name": "احمد بن علي العجمي",
+	"URL": "http://live.mp3quran.net:8008/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "7",
+	"Name": "احمد الحواشي",
+	"URL": "http://live.mp3quran.net:9928/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "8",
+	"Name": "احمد الطرابلسي",
+	"URL": "http://live.mp3quran.net:9926/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "10",
+	"Name": "احمد خضر الطرابلسي",
+	"URL": "http://live.mp3quran.net:9924/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "11",
+	"Name": "احمد ديبان",
+	"URL": "http://live.mp3quran.net:8024/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "12",
+	"Name": "احمد صابر",
+	"URL": "http://live.mp3quran.net:9922/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "13",
+	"Name": "احمد عامر",
+	"URL": "http://live.mp3quran.net:9920/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "14",
+	"Name": "احمد نعينع",
+	"URL": "http://live.mp3quran.net:9904/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "15",
+	"Name": "اكرم العلاقمي",
+	"URL": "http://live.mp3quran.net:9918/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "16",
+	"Name": "إبراهيم الاخضر",
+	"URL": "http://live.mp3quran.net:9946/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "18",
+	"Name": "ابراهيم الدوسري",
+	"URL": "http://live.mp3quran.net:9902/;"
+  },
+  {
+	"bool": false,
+	 "fav":false,
+	"id": "19",
+	"Name": "الدوكالي محمد العالم",
+	"URL": "http://live.mp3quran.net:9916/;"
+  },
+	  
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "21",
+		"Name": "الزين محمد احمد",
+		"URL": "http://live.mp3quran.net:9914/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "22",
+		"Name": "العيون الكوشي",
+		"URL": "http://live.mp3quran.net:9912/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "23",
+		"Name": "الفاتح محمد الزبير",
+		"URL": "http://live.mp3quran.net:9910/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "24",
+		"Name": "الفتاوى",
+		"URL": "http://live.mp3quran.net:8014/;"
+	  },
+	  
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "25",
+		"Name": "القارئ ياسين",
+		"URL": "http://live.mp3quran.net:9908/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "26",
+		"Name": "تكبيرات العيد",
+		"URL": "http://live.mp3quran.net:9728/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "27",
+		"Name": "توفيق الصايغ",
+		"URL": "http://live.mp3quran.net:9906/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "28",
+		"Name": "جمال شاكر عبدالله",
+		"URL": "http://live.mp3quran.net:9900/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "29",
+		"Name": "جمعان العصيمي",
+		"URL": "http://live.mp3quran.net:9950/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "30",
+		"Name": "حاتم فريد الواعر",
+		"URL": "http://live.mp3quran.net:9898/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "33",
+		"Name": "خالد المهنا",
+		"URL": "http://live.mp3quran.net:9896/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "34",
+		"Name": "خالد عبدالكافي",
+		"URL": "http://live.mp3quran.net:9894/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "32",
+		"Name": "خالد القحطاني",
+		"URL": "http://live.mp3quran.net:9970/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "35",
+		"Name": "خليفة الطنيجي",
+		"URL": "http://live.mp3quran.net:9892/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "36",
+		"Name": "زكي داغستاني",
+		"URL": "http://live.mp3quran.net:9890/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "39",
+		"Name": "سهل ياسين",
+		"URL": "http://live.mp3quran.net:9888/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "40",
+		"Name": "سيد رمضان",
+		"URL": "http://live.mp3quran.net:9886/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "42",
+		"Name": "شيرزاد عبدالرحمن طاهر",
+		"URL": "http://live.mp3quran.net:9884/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "43",
+		"Name": "صابر عبدالحكم",
+		"URL": "http://live.mp3quran.net:9952/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "44",
+		"Name": "صالح الهبدان",
+		"URL": "http://live.mp3quran.net:8026/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "45",
+		"Name": "صلاح البدير",
+		"URL": "http://live.mp3quran.net:9882/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "46",
+		"Name": "صلاح الهاشم",
+		"URL": "http://live.mp3quran.net:9880/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "48",
+		"Name": "طارق عبدالغني دعوب",
+		"URL": "http://live.mp3quran.net:9876/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "49",
+		"Name": "عادل الكلباني",
+		"URL": "http://live.mp3quran.net:9874/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "50",
+		"Name": "عادل ريان",
+		"URL": "http://live.mp3quran.net:9872/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "51",
+		"Name": "عبدالبارئ الثبيتي",
+		"URL": "http://live.mp3quran.net:9870/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "52",
+		"Name": "عبدالبارئ محمد",
+		"URL": "http://live.mp3quran.net:9868/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "57",
+		"Name": "عبدالرحمن الماجد",
+		"URL": "http://live.mp3quran.net:9726/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "58",
+		"Name": "عبدالرشيد صوفي",
+		"URL": "http://live.mp3quran.net:9864/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "59",
+		"Name": "عبدالرشيد صوفي",
+		"URL": "http://live.mp3quran.net:9866/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "60",
+		"Name": "عبدالعزيز الاحمد",
+		"URL": "http://live.mp3quran.net:9862/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "61",
+		"Name": "عبدالله الخلف",
+		"URL": "http://live.mp3quran.net:9704/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "62",
+		"Name": "عبدالله الكندري",
+		"URL": "http://live.mp3quran.net:9860/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "63",
+		"Name": "عبدالله المطرود",
+		"URL": "http://live.mp3quran.net:9858/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "64",
+		"Name": "عبدالله الموسى",
+		"URL": "http://live.mp3quran.net:9706/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "65",
+		"Name": "عبدالله بصفر",
+		"URL": "http://live.mp3quran.net:9954/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "66",
+		"Name": "عبدالله خياط",
+		"URL": "http://live.mp3quran.net:9948/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "67",
+		"Name": "عبدالله عواد الجهني",
+		"URL": "http://live.mp3quran.net:9944/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "68",
+		"Name": "عبدالمحسن الحارثي",
+		"URL": "http://live.mp3quran.net:9856/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "69",
+		"Name": "عبدالمحسن العبيكان",
+		"URL": "http://live.mp3quran.net:9854/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "70",
+		"Name": "عبدالمحسن القاسم",
+		"URL": "http://live.mp3quran.net:9852/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "71",
+		"Name": "عبدالهادي احمد كناكري",
+		"URL": "http://live.mp3quran.net:9850/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "72",
+		"Name": "عبدالودود حنيف",
+		"URL": "http://live.mp3quran.net:9848/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "75",
+		"Name": "علي جابر",
+		"URL": "http://live.mp3quran.net:9964/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "76",
+		"Name": "علي حجاج السويسي",
+		"URL": "http://live.mp3quran.net:9842/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "77",
+		"Name": "عماد زهير حافظ",
+		"URL": "http://live.mp3quran.net:9840/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "78",
+		"Name": "عمر القزابري",
+		"URL": "http://live.mp3quran.net:9838/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "80",
+		"Name": "ماجد الزامل",
+		"URL": "http://live.mp3quran.net:8022/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "82",
+		"Name": "ماهر شخاشيرو",
+		"URL": "http://live.mp3quran.net:9836/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "83",
+		"Name": "محمد ايوب",
+		"URL": "http://live.mp3quran.net:9960/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "84",
+		"Name": "محمد ايوب - قراءة متميزة",
+		"URL": "http://live.mp3quran.net:9700/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "86",
+		"Name": "محمد اللحيدان",
+		"URL": "http://live.mp3quran.net:9832/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "88",
+		"Name": "محمد رشاد الشريف",
+		"URL": "http://live.mp3quran.net:9830/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "89",
+		"Name": "محمد صالح عالم شاه",
+		"URL": "http://live.mp3quran.net:9828/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "90",
+		"Name": "محمد صديق المنشاوي ترتيل",
+		"URL": "http://live.mp3quran.net:9978/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "91",
+		"Name": "محمد صديق المنشاوي مجود",
+		"URL": "http://live.mp3quran.net:9826/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "92",
+		"Name": "محمد عبدالحكيم سعيد ترتيل 1",
+		"URL": "http://live.mp3quran.net:9814/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "93",
+		"Name": "محمد عبدالحكيم سعيد ترتيل 2",
+		"URL": "http://live.mp3quran.net:9816/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "94",
+		"Name": "محمد عبدالكريم ترتيل 1",
+		"URL": "http://live.mp3quran.net:9824/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "95",
+		"Name": "محمد عبدالكريم ترتيل 2",
+		"URL": "http://live.mp3quran.net:9822/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "96",
+		"Name": "محمد عثمان خان ( من الهند )",
+		"URL": "http://live.mp3quran.net:9820/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "97",
+		"Name": "محمود الرفاعي",
+		"URL": "http://live.mp3quran.net:9818/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "98",
+		"Name": "محمود الشيمي",
+		"URL": "http://live.mp3quran.net:9812/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "106",
+		"Name": "مصطفى اللاهوني",
+		"URL": "http://live.mp3quran.net:9798/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "107",
+		"Name": "مصطفى رعد العزاوي",
+		"URL": "http://live.mp3quran.net:9796/;"
+	  },
+	  {
+		"bool": false,
+         "fav":false,
+		"id": "108",
+		"Name": "معيض الحارثي",
+		"URL": "http://live.mp3quran.net:9802/;"
+	  }
+
+	]
