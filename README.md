@@ -1,41 +1,38 @@
-<h1> Quran app </h1>
+<h1> Quran app using Flutter </h1>
+
 
 <h3>Features : </h3>
 
+<br>
 1- MVVM architecture .
 2- JSON serialization .
 3- RestFul Api's.
 4- exploring audio playback with Asset Audio Player. 
 
+</br>
 
 
 
 
-<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/e91a88fa-2801-48b4-b4f2-1bfc7f21ac2a" width="280"> 
+<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/e91a88fa-2801-48b4-b4f2-1bfc7f21ac2a" width="280"> <img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/898c8fa7-6620-44dd-bfb9-d6d7f49c5296" width="280"> 
 
-<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/898c8fa7-6620-44dd-bfb9-d6d7f49c5296" width="280"> 
+<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/1c10a616-e141-4c72-87b4-9127ced09b57" width="280"> <img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/ae7cad6c-e288-4178-b9c9-440f4a57967f" width="280"> 
 
-<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/1c10a616-e141-4c72-87b4-9127ced09b57" width="280"> 
+<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/66b3b15c-55d6-48dc-bb98-5995475ba333" width="280"> <img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/23d0f5ce-e9ce-4806-9363-f7aacb58bc0b" width="280"> 
 
-<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/ae7cad6c-e288-4178-b9c9-440f4a57967f" width="280"> 
-
-<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/66b3b15c-55d6-48dc-bb98-5995475ba333" width="280"> 
-
-<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/23d0f5ce-e9ce-4806-9363-f7aacb58bc0b" width="280"> 
-
-<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/c7cf2cb8-c092-415b-a945-9a2167eb044b" width="280"> 
-
-<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/2eb5d1e5-e98f-46f6-bc86-a7aa2ed2e687" width="280"> 
+<img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/c7cf2cb8-c092-415b-a945-9a2167eb044b" width="280"> <img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/2eb5d1e5-e98f-46f6-bc86-a7aa2ed2e687" width="280"> 
 
 <img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/eb259ca1-c9ca-4d56-8de9-dbbd372cd26b" width="280"> 
+
+
 ///////////////////////////////////////////////////////////////////
 
 
 
-<img src="https://user-images.githubusercontent.com/74414358/168648919-2a44ddad-d6bf-4c4b-a5d0-78da8dd9f661.jpg" width="280">
+#<img src="https://user-images.githubusercontent.com/74414358/168648919-2a44ddad-d6bf-4c4b-a5d0-78da8dd9f661.jpg" width="280">
 
      
- <img src="https://user-images.githubusercontent.com/74414358/168649895-1591845e-32af-4be5-9b20-2e54d6ccacc4.jpg" width="280">
+ #<img src="https://user-images.githubusercontent.com/74414358/168649895-1591845e-32af-4be5-9b20-2e54d6ccacc4.jpg" width="280">
 
 
 
