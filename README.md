@@ -1,15 +1,15 @@
 <h1> Quran app using Flutter </h1>
 
 
-<h3>Features : </h3>
+<h2>Features : </h2>
 
-<br>
+<h3>
 1- MVVM architecture .
 2- JSON serialization .
 3- RestFul Api's.
 4- exploring audio playback with Asset Audio Player. 
 
-</br>
+</h3>
 
 
 
@@ -25,19 +25,14 @@
 <img src="https://github.com/AhmedElSayyadMohamed/MuslimApp/assets/74414358/eb259ca1-c9ca-4d56-8de9-dbbd372cd26b" width="280"> 
 
 
-///////////////////////////////////////////////////////////////////
 
 
+<! ––
 
-#<img src="https://user-images.githubusercontent.com/74414358/168648919-2a44ddad-d6bf-4c4b-a5d0-78da8dd9f661.jpg" width="280">
+<img src="https://user-images.githubusercontent.com/74414358/168648919-2a44ddad-d6bf-4c4b-a5d0-78da8dd9f661.jpg" width="280">
 
      
- #<img src="https://user-images.githubusercontent.com/74414358/168649895-1591845e-32af-4be5-9b20-2e54d6ccacc4.jpg" width="280">
-
-
-
-
-////////////////////////////////////////////////////////
+ <img src="https://user-images.githubusercontent.com/74414358/168649895-1591845e-32af-4be5-9b20-2e54d6ccacc4.jpg" width="280">
 
 <img src="https://user-images.githubusercontent.com/74414358/168650650-d005a389-ea93-46e7-9d81-07a4b0b5a559.jpg" width="280">        <img src="https://user-images.githubusercontent.com/74414358/168650782-9177c9ca-41df-42d5-be9a-3096d2099bd3.jpg" width="280">
 
@@ -55,3 +50,6 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/74414358/168651964-4c4fc6b1-6bf9-4005-b35a-3e1adcce1964.jpg" width="280">        <img src="https://user-images.githubusercontent.com/74414358/168651998-7fec5341-4e9b-453f-8e6a-cbd05423bc10.jpg" width="280">
 
+
+
+––> 
