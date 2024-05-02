@@ -4,10 +4,14 @@
 <h2>Features : </h2>
 
 <h3>
-1- MVVM architecture .
-2- JSON serialization .
-3- RestFul Api's.
-4- exploring audio playback with Asset Audio Player. 
+     
+1- MVVM architecture 
+
+2- JSON serialization 
+
+3- RestFul Api's
+
+4- exploring audio playback with Asset Audio Player 
 
 </h3>
 
@@ -27,7 +31,7 @@
 
 
 
-<! ––
+<!--
 
 <img src="https://user-images.githubusercontent.com/74414358/168648919-2a44ddad-d6bf-4c4b-a5d0-78da8dd9f661.jpg" width="280">
 
@@ -52,4 +56,5 @@
 
 
 
-––> 
+-->
+
